@@ -3,7 +3,7 @@
   "title": "Occurrence Plugin",
   "source": "local",
   "version": "0.0.1",
-  "description": "A plugin to add the managment of occurrence records within Symbiota.",
+  "description": "A plugin to add the management of occurrence records within Symbiota.",
   "dependencies": [
     "collection",
     "taxa"

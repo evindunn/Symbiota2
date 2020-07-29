@@ -1,6 +1,6 @@
 {
   "name": "occurrence-association",
-  "title": "Occurrence Assiciations Plugin",
+  "title": "Occurrence Associations Plugin",
   "source": "local",
   "version": "0.0.1",
   "description": "A plugin to track associations within occurrence records.",
